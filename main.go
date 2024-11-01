@@ -43,6 +43,8 @@ func main() {
 		})
 	})
 
+	//Test
+
 	//Run the app on the specified port
 	log.Fatal(app.Listen(":" + port))
 }
